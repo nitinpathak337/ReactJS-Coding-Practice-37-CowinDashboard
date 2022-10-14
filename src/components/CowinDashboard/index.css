@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg {
+  min-height: 100vh;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4%;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+}
+.logo {
+  width: 19%;
+  margin-right: 5%;
+}
+.logo-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #2cc6c6;
+}
+.para {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  align-self: flex-start;
+  font-size: 25px;
+}
